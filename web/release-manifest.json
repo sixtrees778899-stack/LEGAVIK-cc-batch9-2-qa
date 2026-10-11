@@ -3,7 +3,7 @@
   "deployment_identity": "legavik-cc-batch9-2-qa-20261011-2",
   "release": "legavik-cc-batch9-2-qa-20261011-2",
   "release_timestamp": "2026-10-11T08:46:49.299670+00:00",
-  "source_commit": "58cbd2760f80ec897b83dab2243b6b0c788b835d",
+  "source_commit": "f7a0ef1f380050cf7a0230043e968eb6c9ebca60",
   "canonical_origin": "https://sixtrees778899-stack.github.io",
   "canonical_entry": "https://sixtrees778899-stack.github.io/LEGAVIK-cc-batch9-2-qa/web/v3-crypto/index.html?release=legavik-cc-batch9-2-qa-20261011-2#home",
   "html": [
@@ -95,7 +95,7 @@
     },
     {
       "path": "web/v3-crypto/product-v1.legavik-cc-batch9-2-qa-20261011-2.bundle.js",
-      "sha256": "ab703824bed4a86175ccf52646e7f0a06e5044e3aeca9361580a714aa0e2aae0"
+      "sha256": "4ff8e877308d3673e6699a8c322b365b7d79b0e827d2a95a361f16e6acec329f"
     },
     {
       "path": "web/v3-crypto/product-v1.legavik-cc-batch9-2-qa-20261011-2.css",
